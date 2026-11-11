@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tensorflow-models/speech-commands": "^0.5.4",
+    "@tensorflow/tfjs": "^4.22.0",
     "@vitejs/plugin-react": "^4.2.1",
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",
